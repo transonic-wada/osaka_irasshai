@@ -21,7 +21,7 @@
       "attribution": "<a href=\"https://maps.gsi.go.jp/development/ichiran.html\" target=\"_blank\">© GSI Japan</a>"
     }
   },
-  "sprite": "https://geoloniamaps.github.io/basic/basic",
+  "sprite": "https://transonic-wada.github.io/osaka_irasshai/basic",
   "glyphs": "https://glyphs.geolonia.com/{fontstack}/{range}.pbf",
   "layers": [
     {
