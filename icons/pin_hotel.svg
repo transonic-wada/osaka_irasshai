@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="53" viewBox="0 0 46 53">
+  <defs>
+    <filter id="合体_3" x="0" y="0" width="46" height="53" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="グループ_2694" data-name="グループ 2694" transform="translate(7143 18190)">
+    <g transform="matrix(1, 0, 0, 1, -7143, -18190)" filter="url(#合体_3)">
+      <path id="合体_3-2" data-name="合体 3" d="M17.032,40.181A20.218,20.218,0,0,1,20,0,20.222,20.222,0,0,1,23.86,40.026L20.407,47Z" fill="#00ABEB"/>
+    </g>
+    <g id="ベッドのアイコン1" transform="translate(-7132.124 -18225.633)">
+      <path id="パス_5779" data-name="パス 5779" d="M0,340.215a.371.371,0,0,0,.37.37H17.878a.371.371,0,0,0,.37-.37V336.06H0Z" transform="translate(0 -276.871)" fill="#fff"/>
+      <path id="パス_5780" data-name="パス 5780" d="M71.171,52.837V51.383a.693.693,0,0,1,.692-.693h3.393a.693.693,0,0,1,.692.693v1.454a.691.691,0,0,1-.307.574h1.3a.691.691,0,0,1-.306-.574V51.383a.693.693,0,0,1,.692-.693h3.393a.692.692,0,0,1,.691.693v1.454a.691.691,0,0,1-.306.574h1.831l-.306-.666V50.067a1.111,1.111,0,0,0-1.111-1.111H71.064a1.112,1.112,0,0,0-1.111,1.111v2.678l-.305.666h1.83A.691.691,0,0,1,71.171,52.837Z" transform="translate(-67.165)" fill="#fff"/>
+      <path id="パス_5781" data-name="パス 5781" d="M16.112,195.134H2.136L0,199.788H18.248Z" transform="translate(0 -140.968)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

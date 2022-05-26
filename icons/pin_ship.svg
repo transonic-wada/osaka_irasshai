@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="53" viewBox="0 0 46 53">
+  <defs>
+    <filter id="合体_2" x="0" y="0" width="46" height="53" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="グループ_2684" data-name="グループ 2684" transform="translate(7673 18190)">
+    <g transform="matrix(1, 0, 0, 1, -7673, -18190)" filter="url(#合体_2)">
+      <path id="合体_2-2" data-name="合体 2" d="M17.032,40.181A20.218,20.218,0,0,1,20,0,20.222,20.222,0,0,1,23.86,40.026L20.407,47Z" fill="#00ABEB"/>
+    </g>
+    <g id="船アイコン" transform="translate(-7665.383 -18252.551)">
+      <path id="パス_5776" data-name="パス 5776" d="M20.651,84.4V78.392H17.756V74.5H14.194l-.731,3.9H9.853L9.22,82.669,1.116,81.2a.946.946,0,0,0-1,1.384L3.7,89.156A2.84,2.84,0,0,0,6.2,90.636H20.822a1.419,1.419,0,0,0,1.411-1.269l.532-4.965Zm-6.428-2.282h-1.67V80.451h1.67Zm4.174,0h-1.67V80.451H18.4Z" transform="translate(0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="53" viewBox="0 0 46 53">
+  <defs>
+    <filter id="合体_2" x="0" y="0" width="46" height="53" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="グループ_2683" data-name="グループ 2683" transform="translate(7726 18190)">
+    <g transform="matrix(1, 0, 0, 1, -7726, -18190)" filter="url(#合体_2)">
+      <path id="合体_2-2" data-name="合体 2" d="M17.032,40.181A20.218,20.218,0,0,1,20,0,20.222,20.222,0,0,1,23.86,40.026L20.407,47Z" fill="#00ABEB"/>
+    </g>
+    <g id="電車の無料アイコン" transform="translate(-7786.723 -18178.863)">
+      <path id="パス_5775" data-name="パス 5775" d="M87.02,12.2V3.117A3.117,3.117,0,0,0,83.9,0H77.542a3.117,3.117,0,0,0-3.117,3.117V12.2A2.653,2.653,0,0,0,76.619,14.8l-1.955,2.953H76.4l.8-1.213h7.036l.8,1.213h1.738L84.826,14.8A2.653,2.653,0,0,0,87.02,12.2Zm-9-10.8h5.4v.9h-5.4ZM76.4,4.307a.709.709,0,0,1,.708-.709h7.23a.709.709,0,0,1,.709.709V7.3a.709.709,0,0,1-.709.709h-7.23A.708.708,0,0,1,76.4,7.3V4.307Zm.675,8.664a.826.826,0,1,1,.826-.826A.826.826,0,0,1,77.074,12.972Zm.652,2.785.6-.913h4.785l.6.913Zm6.645-2.785a.826.826,0,1,1,.826-.826A.826.826,0,0,1,84.371,12.972Z" transform="translate(0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

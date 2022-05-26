@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="53" viewBox="0 0 46 53">
+  <defs>
+    <filter id="合体_2" x="0" y="0" width="46" height="53" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="グループ_2690" data-name="グループ 2690" transform="translate(7355 18190)">
+    <g transform="matrix(1, 0, 0, 1, -7355, -18190)" filter="url(#合体_2)">
+      <path id="合体_2-2" data-name="合体 2" d="M17.032,40.181A20.218,20.218,0,0,1,20,0,20.222,20.222,0,0,1,23.86,40.026L20.407,47Z" fill="#00ABEB"/>
+    </g>
+    <g id="映画の映写機のアイコン素材2" transform="translate(-7343.875 -18218.719)">
+      <path id="パス_5797" data-name="パス 5797" d="M10.934,40.7A3.9,3.9,0,0,0,7.42,42.9a3.905,3.905,0,1,0-3.515,5.608h7.029a3.9,3.9,0,1,0,0-7.81ZM3.905,46.085a1.477,1.477,0,1,1,1.476-1.477A1.477,1.477,0,0,1,3.905,46.085Zm7.029,0a1.477,1.477,0,1,1,1.477-1.477A1.477,1.477,0,0,1,10.934,46.085Z" fill="#fff"/>
+      <path id="パス_5798" data-name="パス 5798" d="M45.039,271H34.523a.757.757,0,0,0-.758.757v6.053a.758.758,0,0,0,.758.758H45.039a.758.758,0,0,0,.758-.758v-6.053A.757.757,0,0,0,45.039,271Z" transform="translate(-32.489 -221.595)" fill="#fff"/>
+      <path id="パス_5799" data-name="パス 5799" d="M378.94,302.571a.762.762,0,0,0-.648-.141l-3.7.9a.758.758,0,0,0-.579.737v1.794a.758.758,0,0,0,.579.736l3.7.9a.758.758,0,0,0,.938-.737v-3.6A.76.76,0,0,0,378.94,302.571Z" transform="translate(-359.884 -251.817)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

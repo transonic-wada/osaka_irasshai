@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="53" viewBox="0 0 46 53">
+  <defs>
+    <filter id="合体_2" x="0" y="0" width="46" height="53" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="グループ_2680" data-name="グループ 2680" transform="translate(0.491 0.183)">
+    <g transform="matrix(1, 0, 0, 1, -0.49, -0.18)" filter="url(#合体_2)">
+      <path id="合体_2-2" data-name="合体 2" d="M17.032,40.181A20.218,20.218,0,0,1,20,0,20.222,20.222,0,0,1,23.86,40.026L20.407,47Z" transform="translate(0 0)" fill="#f24235"/>
+    </g>
+    <g id="フォークとナイフのお食事アイコン素材" transform="translate(15.184 12.041)">
+      <path id="パス_5773" data-name="パス 5773" d="M57.891.753V4.2a.4.4,0,0,0,.4.4h.106a.4.4,0,0,0,.4-.4V.737a.748.748,0,0,1,1.5,0V4.2a.4.4,0,0,0,.4.4h.106a.4.4,0,0,0,.4-.4V.753A.725.725,0,1,1,62.64.764V4.052c.007,1.825-.43,2.3-1.15,2.869a1.965,1.965,0,0,0-1.077,1.858V16.1H58.669V8.779A1.965,1.965,0,0,0,57.592,6.92c-.721-.569-1.157-1.043-1.15-2.869V.764A.725.725,0,1,1,57.891.753Z" transform="translate(-50.058 0)" fill="#fff"/>
+      <path id="パス_5774" data-name="パス 5774" d="M339.6,1.409a19.268,19.268,0,0,1,1.5,5.622c.1,3.337-1.94,2.843-1.977,5.029v4.372h-1.736l-.008.022V1.409C337.386.142,339.027-.207,339.6,1.409Z" transform="translate(-337.386 -0.314)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

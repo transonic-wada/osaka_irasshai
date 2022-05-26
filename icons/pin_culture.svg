@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="53" viewBox="0 0 46 53">
+  <defs>
+    <filter id="合体_2" x="0" y="0" width="46" height="53" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="グループ_2692" data-name="グループ 2692" transform="translate(7249 18190)">
+    <g transform="matrix(1, 0, 0, 1, -7249, -18190)" filter="url(#合体_2)">
+      <path id="合体_2-2" data-name="合体 2" d="M17.032,40.181A20.218,20.218,0,0,1,20,0,20.222,20.222,0,0,1,23.86,40.026L20.407,47Z" fill="#00ABEB"/>
+    </g>
+    <g id="グループ_2681" data-name="グループ 2681" transform="translate(-7735.684 -19150.316)">
+      <path id="パス_5802" data-name="パス 5802" d="M20.016,85.92H15.621l-3.945-4a1.376,1.376,0,0,0-1.959,0l-3.945,4H1.376A1.377,1.377,0,0,0,0,87.3v8.8H9.582V91.63a1.114,1.114,0,0,1,2.228,0v4.462h9.582V87.3A1.376,1.376,0,0,0,20.016,85.92ZM3.362,93.012H2.2V90.873H3.362Zm3.615,0H5.818V90.873H6.977ZM10.7,87.657a1.649,1.649,0,1,1,1.649-1.649A1.649,1.649,0,0,1,10.7,87.657Zm4.877,5.354H14.414V90.873h1.159Zm3.615,0H18.03V90.873h1.159Z" transform="translate(495.987 891.682)" fill="#fff"/>
+      <path id="パス_5803" data-name="パス 5803" d="M256,164.725v1.02h.85" transform="translate(250.687 811.946)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

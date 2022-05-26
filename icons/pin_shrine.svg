@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="53" viewBox="0 0 46 53">
+  <defs>
+    <filter id="合体_2" x="0" y="0" width="46" height="53" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="グループ_2687" data-name="グループ 2687" transform="translate(7514 18190)">
+    <g transform="matrix(1, 0, 0, 1, -7514, -18190)" filter="url(#合体_2)">
+      <path id="合体_2-2" data-name="合体 2" d="M17.032,40.181A20.218,20.218,0,0,1,20,0,20.222,20.222,0,0,1,23.86,40.026L20.407,47Z" fill="#00ABEB"/>
+    </g>
+    <g id="鳥居のアイコン" transform="translate(-7503.447 -18215.699)">
+      <path id="パス_5801" data-name="パス 5801" d="M15.771,42.28l-.022-.2-.018-.164h1.213V40.447h.994l.958-2.15H0l.957,2.15h.995v1.473H3.164l-.041.359h0l-.3,2.638H.369v2.215h2.2l-.029.261h0l-.015.13-.554,4.864h0l-.225,1.977h2.78l.161-1.977.4-4.864.011-.13.021-.261h8.656l.022.261.009.13.4,4.864h0l.162,1.977h2.78l-.225-1.977h0l-.554-4.864-.014-.13h0l-.007-.058-.023-.2h2.2V44.918H16.072ZM10.41,41.92h2.938l.03.359.216,2.638H10.41v-3Zm-4.894.359.029-.359H8.484v3H5.3Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>
